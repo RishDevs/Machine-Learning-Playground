@@ -16,7 +16,3 @@ This repository documents my learning-by-building journey in applied machine lea
 - Visualizations and experiment tracking
 - Notes on failures, fixes, and insights
 
----
-
-## 📁 Repository Structure (typical)
-
